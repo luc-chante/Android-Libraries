@@ -1,0 +1,10 @@
+Android Libraries is a collections of classes to simplify the Android Application
+development.
+
+Number Picker
+-------------
+
+Based on Android source code, Number Picker contains classes for numbers selection.
+ * Public classes (com.ldev.nbpicker.widget) :
+    - NumberPicker
+    - RangeNumberPicker
